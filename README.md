@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there its me Dav_ee 👋
+
+[![HitCount](http://hits.dwyl.com/Dav-ee/Dav-ee.svg)](http://hits.dwyl.com/Dav-ee/Dav-ee)
 
 <!--
 **Dav-ee/Dav-ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
