@@ -28,21 +28,18 @@
 ### 📕 Latest Projects
 
 <!-- -LIST:START -->
-- [PORTFOLIO](https://dav-ee.github.io)
+- [PORTFOLIO Want to know more? Visit here](https://dav-ee.github.io)
 - [ANALYTIKA.CO.KE](https://analytika.co.ke)
 - [DARLTECHSOLUTIONS.GA](https://darltechsolutions.ga)
-- [SEKUCU.ML](https://sekucu.ml)
+- [SEKUCU.ML | Web Application To manage Church](https://sekucu.ml)
 - [SIMPLE PORTFOLIO](https://w3b573r.netlfy.app)
 <!--LIST:END -->
 
----
-
-<details>
- 
+--- 
 
   <img align="left" alt="Dav-ee's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Dav-ee&show_icons=true&hide_border=true" />
 
-</details>
+
 
 [website]: https://dav-ee.github.io/
 [twitter]: https://twitter.com/Dav_ee
