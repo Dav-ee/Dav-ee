@@ -8,21 +8,21 @@
 ### I'm a  Developer and Footballer!
 
 - 🔭 I’m currently working on Android Development [website]!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning everything 😅😅
+- 🥅 2020 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love  playing Soccer
 
- ### Spotify Playing 🎧
+ ### Spotify Playing 🎧 Use VPN🗝
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) 
 
-<!-- ### Connect with me:
+ ### Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="#" />][website]
 [<img align="left" alt="codeSTACKr | whatsapp" width="22px" src="#" />][whatsapp]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="#" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="#" />][linkedin]
 [<img align="left" alt="codeSTACKr | facebook" width="22px" src="#" />][facebook]
 
-<br />  -->
+<br /> 
 
 
 ### 📕 Latest Projects
