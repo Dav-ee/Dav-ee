@@ -7,7 +7,7 @@
  -->
 ### I'm a  Developer and Footballer!
 
-- 🔭 I’m currently working on Android Development [website]!
+- 🔭 I’m currently working on Android Development!
 - 🌱 I’m currently learning everything 😅😅
 - 🥅 2020 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love  playing Soccer
