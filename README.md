@@ -50,10 +50,10 @@
 ### 📕 Latest Projects
 
 <!-- -LIST:START -->
-- [PORTFOLIO Want to know more? Visit here](https://dav-ee.github.io)
+- [PORTFOLIO Want to know more about ME? Visit here](https://dav-ee.github.io)
 - [ANALYTIKA.CO.KE](https://analytika.co.ke)
-- [DARLTECHSOLUTIONS.GA](https://darltechsolutions.ga)
-- [SEKUCU.ML | Web Application To manage Church](https://sekucu.ml)
+- [DARLTECHSOLUTIONS.GA | Tech Arena](https://darltechsolutions.ga)
+- [SEKUCU.ML | Web Application For Church Management|](https://sekucu.ml)
 - [SIMPLE PORTFOLIO](https://w3b573r.netlfy.app)
 <!--LIST:END -->
 
