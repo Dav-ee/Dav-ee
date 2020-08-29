@@ -20,7 +20,7 @@
 [<img align="left" alt="codeSTACKr | whatsapp" width="22px" src="#" />][whatsapp]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="#" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="#" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="#" />][instagram]
+[<img align="left" alt="codeSTACKr | facebook" width="22px" src="#" />][facebook]
 
 <br />  -->
 
@@ -47,10 +47,5 @@
 [website]: https://dav-ee.github.io/
 [twitter]: https://twitter.com/Dav_ee
 [whatsapp]: https://api.whatsapp.com/send?phone=254704988935&text=Hello%20Dav-ee&source=&data=#
-[instagram]: 
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[facebook]: https://web.facebook.com/davies.kiprono.52
 
