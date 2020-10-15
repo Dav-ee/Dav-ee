@@ -1,5 +1,4 @@
 [![Github](https://img.shields.io/github/followers/Dav-ee?label=Follow&style=social)](https://github.com/Dav-ee)
-[![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=Dav-ee)](https://github.com/Dav-ee)
 [![Mail](https://img.shields.io/badge/-Kiprono_Davies-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:Davies.langatt@gmail.com)
 
 
