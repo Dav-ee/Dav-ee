@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on Android Development!
 - 🌱 I’m currently learning everything 😅😅
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🥅 2021 Goals: Master android development(flutter) pretty well
 - ⚡ Fun fact: I love  playing Soccer
 
 ### Connect with me:
