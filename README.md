@@ -49,8 +49,8 @@
 ### 📕 Latest Projects
 
 <!-- -LIST:START -->
-- [PRIMAXBID1](https://primaxbid1.com)
-- [CASHFLEX](https://cashflex.co.ke)
+- [PRIMAXBID1.COM](https://primaxbid1.com)
+- [CASHFLEX.CO.KE](https://cashflex.co.ke)
 - [PORTFOLIO Want to know more about ME? Visit here](https://dav-ee.github.io)
 - [ANALYTIKA.CO.KE](https://analytika.co.ke)
 - [DARLTECHSOLUTIONS.GA | Tech Arena](https://darltechsolutions.ga)
