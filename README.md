@@ -59,7 +59,7 @@
 
 --- 
 
-  <img align="left" alt="Dav-ee's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Dav-ee&show_icons=true&hide_border=true" />
+<!--   <img align="left" alt="Dav-ee's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Dav-ee&show_icons=true&hide_border=true" /> -->
 
 
 
