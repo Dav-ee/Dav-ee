@@ -11,7 +11,7 @@
 ### I'm a Freelance Full Stack Web Developer and A software Developer !
 
 - 🔭 I’m currently working on Android Development!
-- 🌱 I’m currently learning (LARAVEL, NODEJS, DJANGO)
+- 🌱 I’m currently learning (LARAVEL, Node.js, DJANGO)
 - 🥅 2022 Goals: Heading on Android/IOS development(flutter/dart) to pro-level
 - ⚡ Fun fact: I love  playing Soccer
 
