@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on Android Development!
 - 🌱 I’m currently learning everything 😅😅
-- 🥅 2021 Goals: Master android development(flutter) pretty well
+- 🥅 2021 Goals: Master android development(flutter/dart) pretty well
 - ⚡ Fun fact: I love  playing Soccer
 
 ### Connect with me:
@@ -49,12 +49,12 @@
 ### 📕 Latest Projects
 
 <!-- -LIST:START -->
-- [PRIMAXBID1.COM](https://primaxbid1.com)
-- [CASHFLEX.CO.KE](https://cashflex.co.ke)
-- [PORTFOLIO Want to know more about ME? Visit here](https://dav-ee.github.io)
-- [ANALYTIKA.CO.KE](https://analytika.co.ke)
-- [DARLTECHSOLUTIONS.GA | Tech Arena](https://darltechsolutions.ga)
-- [SEKUCU.ML | Web Application For Church Management|](https://sekucu.ml)
+- [https://earnwayventures.com/](https://earnwayventures.com/)
+- [https://multipleearnagencies.com/](https://multipleearnagencies.com/)
+- [PORTFOLIO Want to know more about ME? Visit here](https://davee.co.ke)
+- [https://cambridgesolutions.cash/](https://cambridgesolutions.cash/)
+- [https://smartlyinvestor.com](https://smartlyinvestor.com)
+- [https://www.pambainsurance.co.ke/|](https://www.pambainsurance.co.ke/)
 <!--LIST:END -->
 
 --- 
