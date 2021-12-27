@@ -46,7 +46,7 @@
 
 ---  
 
-### 📕 Latest Projects
+### 📕 Latest Web Projects
 
 <!-- -LIST:START -->
 - [https://earnwayventures.com/](https://earnwayventures.com/)
@@ -55,6 +55,9 @@
 - [https://cambridgesolutions.cash/](https://cambridgesolutions.cash/)
 - [https://smartlyinvestor.com](https://smartlyinvestor.com)
 - [https://www.pambainsurance.co.ke/|](https://www.pambainsurance.co.ke/)
+- [https://www.analytika.co.ke/|](https://www.analytika.co.ke/)
+- [https://applemasterkenya.com/|](https://applemasterkenya.com/)
+- [https://olchorrocontainers.co.ke/|](https://olchorrocontainers.co.ke/)
 <!--LIST:END -->
 
 --- 
