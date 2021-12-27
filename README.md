@@ -11,8 +11,8 @@
 ### I'm a Freelance Full Stack Web Developer and A software Developer !
 
 - 🔭 I’m currently working on Android Development!
-- 🌱 I’m currently learning everything 😅😅
-- 🥅 2021 Goals: Master android development(flutter/dart) pretty well
+- 🌱 I’m currently learning (LARAVEL, NODEJS, DJANGO)
+- 🥅 2022 Goals: Heading on Android/IOS development(flutter/dart) to pro-level
 - ⚡ Fun fact: I love  playing Soccer
 
 ### Connect with me:
@@ -66,10 +66,10 @@
 
 
 
-[website]: https://dav-ee.github.io/
+[website]: https://davee.co.ke/
 [twitter]: https://twitter.com/Dav_ee
-[whatsapp]: https://api.whatsapp.com/send?phone=254704988935&text=Hello%20Dav-ee&source=&data=#
-[facebook]: https://web.facebook.com/davies.kiprono.52
+[whatsapp]: https://api.whatsapp.com/send?phone=254745682815&text=Hello%20Dav-ee&source=&data=#
+[facebook]: #
 [instagram]: #
 
 [webdevplaylist]: https://dav-ee.github.io/
