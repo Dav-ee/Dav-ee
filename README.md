@@ -1,6 +1,6 @@
 [![Github](https://img.shields.io/github/followers/Dav-ee?label=Follow&style=social)](https://github.com/Dav-ee)
 [![Mail](https://img.shields.io/badge/-Kiprono_Davies-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:Davies.langatt@gmail.com)
-<p align="center"><p align="left"> <img src="https://komarev.com/ghpvc/?username=Dav-ee" alt="blueedge"/> </p>  </p>
+ <img src="https://komarev.com/ghpvc/?username=Dav-ee" alt="blueedge"/>
 
 #### Hi there, I'm Kiprono Davies - aka [Dav_ee][website] 👋
 <br>
