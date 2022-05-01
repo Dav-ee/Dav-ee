@@ -10,7 +10,7 @@
 ### I'm a Freelance Full Stack Web Developer and A software Developer !
 
 - 🔭 I’m currently working on Android Development!
-- 🌱 I’m currently learning (LARAVEL, Node.js, DJANGO)
+- 🌱 I’m currently learning (LARAVEL, Node.js, Mongo_DB)
 - 🥅 2022 Goals: Heading on Android/IOS development(flutter/dart) to pro-level
 - ⚡ Fun fact: I love  playing Soccer
 
@@ -73,8 +73,8 @@
 [facebook]: #
 [instagram]: #
 
-[webdevplaylist]: https://dav-ee.github.io/
-[jsplaylist]: https://dav-ee.github.io/
-[cssplaylist]: https://dav-ee.github.io/
-[reactplaylist]: https://dav-ee.github.io/
+[webdevplaylist]: https://davee.co.ke
+[jsplaylist]: https://davee.co.ke
+[cssplaylist]: https://davee.co.ke
+[reactplaylist]: https://davee.co.ke
 
