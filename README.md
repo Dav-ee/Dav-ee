@@ -3,16 +3,16 @@
  <img src="https://komarev.com/ghpvc/?username=Dav-ee" alt="blueedge"/>
 
 #### Hi there, I'm Kiprono Davies - aka [Dav_ee][website] 👋
-<br>
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
  -->
-### I'm a Freelance Full Stack Web Developer and A software Developer !
+### I'm a Freelance Full Stack Web Developer and a Mobile Developer !
 
-- 🔭 I’m currently working on Android Development!
-- 🌱 I’m currently learning (LARAVEL, Node.js, Mongo_DB)
+<!-- - 🔭 I’m currently working on Android Development to Pro level! -->
+- 🌱 I’m currently learning (Node.js, Mongo-DB,)
 - 🥅 2022 Goals: Heading on Android/IOS development(flutter/dart) to pro-level
-- ⚡ Fun fact: I love  playing Soccer
+- ⚡ Fun fact: I love open Source projects contributions.
+
 
 ### Connect with me:
 
@@ -50,15 +50,14 @@
 ### 📕 Latest Web Projects
 
 <!-- -LIST:START -->
-- [https://earnwayventures.com/](https://earnwayventures.com/)
-- [https://multipleearnagencies.com/](https://multipleearnagencies.com/)
-- [PORTFOLIO Want to know more about ME? Visit here](https://davee.co.ke)
-- [https://cambridgesolutions.cash/](https://cambridgesolutions.cash/)
+- [https://earnwayventures.com](https://earnwayventures.com)
+- [https://multipleearnagencies.com](https://multipleearnagencies.com)
+- [https://cambridgesolutions.cash](https://cambridgesolutions.cash)
 - [https://smartlyinvestor.com](https://smartlyinvestor.com)
-- [https://www.pambainsurance.co.ke/|](https://www.pambainsurance.co.ke/)
-- [https://www.analytika.co.ke/|](https://www.analytika.co.ke/)
-- [https://applemasterkenya.com/|](https://applemasterkenya.com/)
-- [https://olchorrocontainers.co.ke/|](https://olchorrocontainers.co.ke/)
+- [https://www.pambainsurance.co.ke](https://www.pambainsurance.co.ke)
+- [https://www.analytika.co.ke](https://www.analytika.co.ke)
+- [https://applemasterkenya.com](https://applemasterkenya.com)
+- [https://olchorrocontainers.co.ke](https://olchorrocontainers.co.ke)
 <!--LIST:END -->
 
 --- 
