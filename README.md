@@ -50,9 +50,9 @@
 ### 📕 Latest Web Projects
 
 <!-- -LIST:START -->
-- [https://blog.davee.co.ke/](https://blog.davee.co.ke/)
-- [https://infinitersinvests.com/login.php](https://infinitersinvests.com/login.php)
-- [https://digibitsglobal.com/](https://digibitsglobal.com/)
+- [https://blog.davee.co.ke](https://blog.davee.co.ke)
+- [https://infinitersinvests.com](https://infinitersinvests.com)
+- [https://digibitsglobal.com/](https://digibitsglobal.com)
 - [https://earnwayventures.com](https://earnwayventures.com)
 - [https://multipleearnagencies.com](https://multipleearnagencies.com)
 - [https://cambridgesolutions.cash](https://cambridgesolutions.cash)
