@@ -8,8 +8,8 @@
  -->
 ### I'm a Freelance Full Stack Web Developer and a Mobile Developer !
 
-<!-- - 🔭 I’m currently working on Android Development to Pro level! -->
 - 🌱 I’m currently learning (Node.js, Mongo-DB,)
+- 🔭 Lets talk about laravel 👋
 - 🥅 2022 Goals: Heading on Android/IOS development(flutter/dart) to pro-level
 - ⚡ Fun fact: I love open Source projects contributions.
 
@@ -50,14 +50,17 @@
 ### 📕 Latest Web Projects
 
 <!-- -LIST:START -->
+- [https://blog.davee.co.ke/](https://blog.davee.co.ke/)
+- [https://infinitersinvests.com/login.php](https://infinitersinvests.com/login.php)
+- [https://digibitsglobal.com/](https://digibitsglobal.com/)
 - [https://earnwayventures.com](https://earnwayventures.com)
 - [https://multipleearnagencies.com](https://multipleearnagencies.com)
 - [https://cambridgesolutions.cash](https://cambridgesolutions.cash)
 - [https://smartlyinvestor.com](https://smartlyinvestor.com)
 - [https://www.pambainsurance.co.ke](https://www.pambainsurance.co.ke)
 - [https://www.analytika.co.ke](https://www.analytika.co.ke)
-- [https://applemasterkenya.com](https://applemasterkenya.com)
 - [https://olchorrocontainers.co.ke](https://olchorrocontainers.co.ke)
+- [https://applemasterkenya.com](https://applemasterkenya.com)
 <!--LIST:END -->
 
 --- 
