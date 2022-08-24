@@ -45,26 +45,6 @@
 <br />
 <br />
 
----  
-
-### 📕 Latest Web Projects
-
-<!-- -LIST:START -->
-- [https://blog.davee.co.ke](https://blog.davee.co.ke)
-- [https://infinitersinvests.com](https://infinitersinvests.com)
-- [https://digibitsglobal.com/](https://digibitsglobal.com)
-- [https://earnwayventures.com](https://earnwayventures.com)
-- [https://multipleearnagencies.com](https://multipleearnagencies.com)
-- [https://cambridgesolutions.cash](https://cambridgesolutions.cash)
-- [https://smartlyinvestor.com](https://smartlyinvestor.com)
-- [https://www.pambainsurance.co.ke](https://www.pambainsurance.co.ke)
-- [https://www.analytika.co.ke](https://www.analytika.co.ke)
-- [https://olchorrocontainers.co.ke](https://olchorrocontainers.co.ke)
-- [https://applemasterkenya.com](https://applemasterkenya.com)
-<!--LIST:END -->
-
---- 
-
 <!--   <img align="left" alt="Dav-ee's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Dav-ee&show_icons=true&hide_border=true" /> -->
 
 
