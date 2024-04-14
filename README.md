@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning (Node.js, Mongo-DB,)
 - 🔭 Lets talk about laravel 👋
-- 🥅 2022 Goals: Heading on Android/IOS development(flutter/dart) to pro-level
+<!-- - 🥅 2024 Goals: Heading on Android/IOS development(flutter/dart) to pro-level -->
 - ⚡ Fun fact: I love open Source projects contributions.
 
 
