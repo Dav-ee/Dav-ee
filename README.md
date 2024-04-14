@@ -9,9 +9,9 @@
 ### I'm a Freelance Full Stack Web Developer and a Mobile Developer !
 
 - 🌱 I’m currently learning (Node.js, Mongo-DB,)
-- 🔭 Lets talk about laravel 👋
-<!-- - 🥅 2024 Goals: Heading on Android/IOS development(flutter/dart) to pro-level -->
+- 🔭 Lets talk about laravel, flutter 👋
 - ⚡ Fun fact: I love open Source projects contributions.
+  <!-- - 🥅 2024 Goals: Heading on Android/IOS development(flutter/dart) to pro-level -->
 
 
 ### Connect with me:
